@@ -1,0 +1,26 @@
+h1,p{
+    display: inline;
+    
+}
+.cols{
+    display: flex;
+
+    background-image: url(https://1.bp.blogspot.com/-aVM7bJ8iZsA/YDWFY0OYO6I/AAAAAAAAAzU/I5lY9d6duO8411GFoW9KlMjoTSF7qUgkQCNcBGAsYHQ/s851/Happy%2BIndependence%2BDay%2B14th%2BAugust%2BFacebook%2BCovers-3.png);
+    background-size: cover;
+    column-gap: 45px;
+}
+h1{
+    text-align: center;
+    color: seagreen;
+    
+    border:palevioletred 8px solid;
+    font-size: 35px;
+    
+}
+h2{
+    text-align: center;
+    color: white;
+    background-color: green;
+    border: double 5px black;
+    font-size: 30px;
+}
